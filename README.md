@@ -6,3 +6,5 @@
 
 # Usage
 cgps -s
+
+https://navit.readthedocs.io/en/stable/basic_configuration.html
